@@ -1,4 +1,3 @@
-
 ---
 title: Leela Chess Zero
 ---
