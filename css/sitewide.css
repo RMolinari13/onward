@@ -46,8 +46,8 @@ body {
 	width: 90%;
 	max-width: 1200px;
 	padding: 2em;
-	border: 2px solid #1c90e5;
-	background color: #b2b2b2;
+	border: 2px 0px 0px 2px solid #1c90e5;
+	background-color: #b2b2b2;
 }
 
 h1 {
