@@ -2,4 +2,8 @@
 title: Leela Chess Zero
 ---
 
-This [article](https://lichess.org/blog/WtzZAyoAALvE8ZSQ/gm-andrew-tang-defends-humanity-against-leela-chess-zero) on the new Leela Chess Zero engine is very interesting. The new self-learning chess engines (Leela and Alpha Zero) showcase the incredible potential for AI. How quickly these engines surpassed the best computer and human players is astounding given how long it took fortraditional engines to overtake human players
+This [article](https://lichess.org/blog/WtzZAyoAALvE8ZSQ/gm-andrew-tang-defends-humanity-against-leela-chess-zero) on the new Leela Chess Zero engine is very interesting. The new self-learning chess engines (Leela and Alpha Zero) showcase the incredible potential for AI. How quickly these engines surpassed the best computer and human players is astounding given how long it took for 'traditional' engines to overtake human players.
+
+What is truly interesting about these new engines is that instead of being constructed with opening tables and endgame strategies, they are simply taught the rules of chess and allowed to play themselves. In this way, they are the first machines to design their own strateies in chess, rather than having them programmed in.
+
+
