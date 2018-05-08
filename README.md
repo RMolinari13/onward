@@ -1,5 +1,5 @@
-# web1 self-publishing
+# Game Onward
 
-hello@imaginaryterrain.com
+https://rmolinari13.github.io/onward/
 
-[Students: edit this file!]
+In this blog I talk about games and competitions, both those that I am involved in and that I watch.
