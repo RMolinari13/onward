@@ -34,8 +34,8 @@ body {
 	text-shadow: 2px 2px 2px black;
 	background-color: black;
 	background-image: url(../img/rosegarden.jpg);
-	background-repeat: none;
-	background-size: cover;
+	background-repeat: repeat-y;
+	background-size: auto;
 }
 
 /*	Generally, you will only want one container element in
