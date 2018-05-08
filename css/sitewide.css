@@ -51,16 +51,15 @@ body {
 	border-left: 2px solid #1c90e5;
 	border-top: 2px solid #1c90e5;
 	background-color: #black;
-	gird-template-columns: 1fr 1fr 1fr;
 }
 
 h1 {
-	font-size: 64px;
+	font-size: 36px;
 	text-transform: uppercase;
 }
 
 .top {
-	grid-column: 1/2;
+	font-size: 64px;
 
 a {
 	text-decoration: none;
@@ -70,6 +69,5 @@ a {
 .opener {
 	color: #eb3015;
 	font-size: 24px;
-	grid-column: 2/4;
 }
 
