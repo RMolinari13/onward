@@ -29,10 +29,10 @@
         <h1>{{ page.title }}</h1>
 
         {% if page.date %}
-    		<p>{{ page.date | date: "%A, %B %-d, %Y" }}</p>
+    		<p class="opener">{{ page.date | date: "%A, %B %-d, %Y" }}</p>
         {% endif %}
 
-        {{ content }}
+		<p class="content">{{ content }}</p>
 
 	</div><!-- end container -->
 	
