@@ -32,6 +32,9 @@ body {
 	line-height: 1.5em;
 	color: white;
 	background-color: black;
+	background-image: url(../img/rosegarden.jpg);
+	background-repeat: none;
+	background-size: cover;
 }
 
 /*	Generally, you will only want one container element in
@@ -60,6 +63,7 @@ h1 {
 
 .top {
 	font-size: 64px;
+}
 
 a {
 	text-decoration: none;
