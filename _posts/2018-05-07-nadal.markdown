@@ -4,3 +4,5 @@ title: Nadal
 
 This [piece](https://fivethirtyeight.com/features/somehow-rafael-nadal-got-better-on-clay/) form 538 illustrates the incredible dominance that Rafa Nadal has shown on clay lately.
 
+Tennis is an interesting sport in that it is the only sport that is played on wildly different surfaces. The design of these surfaces greatly changes how the game is played, and it is interesting that each of Nadal, Federer and Djokovic have each been dominant on a different surface.
+
