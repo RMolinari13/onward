@@ -80,5 +80,11 @@ a {
 	grid-column: 2/5;
 }
 
+.list {
+	grid-column: 2/4;
+}
+
+
+
 
 
